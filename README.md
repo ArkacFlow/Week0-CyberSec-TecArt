@@ -52,7 +52,7 @@ Setelah seluruh transformasi berhasil dibalik, flag asli berhasil diperoleh: pic
 ![Challenge Undo](undo_challenge.png)
 
 
-##Kategori Web Challenge IntroToBurp
+## Kategori Web Challenge IntroToBurp
 Pertama, start sebuah temporary project, lalu ke menu Proxy, kemudian open browser dan membuka challenge yang diberikan di dalam browser tersebut
 
 Kedua, di dalam Proxy, hidupkan Intercept.
