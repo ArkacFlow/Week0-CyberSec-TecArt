@@ -82,5 +82,7 @@ Ketujuh, pilih forward sehingga ke halaman berikutnya. Hasilnya adalah halaman d
 
 ## Referensi
 Microsoft. (n.d.). *Windows Subsystem for Linux documentation*. Microsoft Learn. https://learn.microsoft.com/en-us/windows/wsl/
+
 Python Software Foundation. (n.d.). *Python 3 documentation*. Python. https://docs.python.org/3/
+
 PortSwigger. (n.d.). *Getting started with Burp Suite*. PortSwigger. https://portswigger.net/burp/documentation/desktop/getting-started
